@@ -1,0 +1,28 @@
+{
+  "_note": "Single source for header and cover colours. Edit here, then run: python3 assets/src/build.py",
+  "font_mono": "ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace",
+  "font_sans": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif",
+  "dark": {
+    "window": "#16172a",
+    "titlebar": "#0f1019",
+    "border": "#35364c",
+    "ink": "#e7e7ef",
+    "muted": "#a6a6b8",
+    "faint": "#76768a",
+    "accent": "#b4a0e5",
+    "accent_shadow": "#3452d1",
+    "action": "#93a7ff"
+  },
+  "light": {
+    "window": "#ffffff",
+    "titlebar": "#f6f6f9",
+    "border": "#d9d8e1",
+    "ink": "#1c1d2c",
+    "muted": "#676877",
+    "faint": "#9a9aab",
+    "accent": "#6b4fc0",
+    "accent_shadow": "#c9d2ff",
+    "action": "#3452d1"
+  },
+  "traffic_lights": ["#ff5f57", "#febc2e", "#28c840"]
+}
