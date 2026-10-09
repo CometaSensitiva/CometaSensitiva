@@ -9,7 +9,7 @@ from xml.sax.saxutils import escape
 SRC = Path(__file__).parent
 OUT = SRC.parent
 
-W, H = 1200, 352
+W, H = 1200, 412
 PAD = 56
 TITLEBAR = 40
 PIXEL = 9          # one '#' of the banner
@@ -21,6 +21,8 @@ FONT_SIZE = 19
 SESSION = [
     [("prompt", "~ "), ("faint", "$ "), ("ink", "whoami")],
     [("muted", "Management Engineering graduate · University of Bologna")],
+    [("prompt", "~ "), ("faint", "$ "), ("ink", "cat stack.txt")],
+    [("muted", "Python · SQL · Pyomo · LaTeX · C · Java")],
     [("prompt", "~ "), ("faint", "$ "), ("ink", "ls projects/")],
     [("accent", "industrial-manual-ingestion  "), ("accent", "career-day  "),
      ("accent", "audiopro  "), ("accent", "ferrari-optimization")],

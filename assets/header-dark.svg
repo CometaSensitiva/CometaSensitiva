@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="352" viewBox="0 0 1200 352" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="412" viewBox="0 0 1200 412" role="img" aria-labelledby="t d">
 <title id="t">Michele Mazza</title>
 <desc id="d">Terminal-style header: Management Engineering graduate, University of Bologna. Projects: industrial-manual-ingestion, career-day, audiopro, ferrari-optimization.</desc>
-<rect x="0.5" y="0.5" width="1199" height="351" rx="14" fill="#16172a" stroke="#35364c"/>
+<rect x="0.5" y="0.5" width="1199" height="411" rx="14" fill="#16172a" stroke="#35364c"/>
 <path d="M14.5 0.5 H1185.5 A14 14 0 0 1 1199.5 14.5 V40 H0.5 V14.5 A14 14 0 0 1 14.5 0.5 Z" fill="#0f1019" stroke="#35364c"/>
 <circle cx="24" cy="20.0" r="6" fill="#ff5f57"/>
 <circle cx="44" cy="20.0" r="6" fill="#febc2e"/>
@@ -707,8 +707,10 @@
 </g>
 <text x="56" y="199" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#93a7ff">~ </tspan><tspan fill="#76768a">$ </tspan><tspan fill="#e7e7ef">whoami</tspan></text>
 <text x="56" y="229" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#a6a6b8">Management Engineering graduate · University of Bologna</tspan></text>
-<text x="56" y="259" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#93a7ff">~ </tspan><tspan fill="#76768a">$ </tspan><tspan fill="#e7e7ef">ls projects/</tspan></text>
-<text x="56" y="289" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#b4a0e5">industrial-manual-ingestion  </tspan><tspan fill="#b4a0e5">career-day  </tspan><tspan fill="#b4a0e5">audiopro  </tspan><tspan fill="#b4a0e5">ferrari-optimization</tspan></text>
-<text x="56" y="319" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#93a7ff">~ </tspan><tspan fill="#76768a">$ </tspan></text>
-<rect x="101.6" y="303" width="10.5" height="19" fill="#b4a0e5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
+<text x="56" y="259" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#93a7ff">~ </tspan><tspan fill="#76768a">$ </tspan><tspan fill="#e7e7ef">cat stack.txt</tspan></text>
+<text x="56" y="289" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#a6a6b8">Python · SQL · Pyomo · LaTeX · C · Java</tspan></text>
+<text x="56" y="319" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#93a7ff">~ </tspan><tspan fill="#76768a">$ </tspan><tspan fill="#e7e7ef">ls projects/</tspan></text>
+<text x="56" y="349" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#b4a0e5">industrial-manual-ingestion  </tspan><tspan fill="#b4a0e5">career-day  </tspan><tspan fill="#b4a0e5">audiopro  </tspan><tspan fill="#b4a0e5">ferrari-optimization</tspan></text>
+<text x="56" y="379" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" xml:space="preserve"><tspan fill="#93a7ff">~ </tspan><tspan fill="#76768a">$ </tspan></text>
+<rect x="101.6" y="363" width="10.5" height="19" fill="#b4a0e5"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/></rect>
 </svg>
