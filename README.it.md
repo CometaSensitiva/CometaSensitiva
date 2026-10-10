@@ -1,13 +1,13 @@
+[English](README.md) · **Italiano**
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img alt="Michele Mazza — laureato in Ingegneria Gestionale, Università di Bologna" src="assets/header-light.svg">
 </picture>
 
-[English](README.md) · **Italiano**
-
 Mi sono laureato in Ingegneria Gestionale all'Università di Bologna (108/110), dopo un primo anno a Ingegneria Informatica e un semestre Erasmus a Madrid. Mi piace costruire strumenti pratici per problemi che ho davvero: documenti difficili da consultare, lezioni difficili da ripassare, eventi difficili da organizzare.
 
-Ho imparato a programmare in C e Java durante il primo anno, e oggi sviluppo con agenti di coding AI come Codex e Claude Code. Decido cosa deve fare lo strumento e come è strutturato, leggo e metto in discussione il codice che scrivono gli agenti, e lo provo finché non si comporta come deve.
+Ho imparato a programmare in C e Java durante il primo anno, e oggi uso assistenti di coding nel mio lavoro di sviluppo. Decido cosa deve fare lo strumento e come è strutturato, leggo e metto in discussione il codice, e lo provo finché non si comporta come deve.
 
 ## Progetti
 

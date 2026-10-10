@@ -1,13 +1,13 @@
+**English** · [Italiano](README.it.md)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img alt="Michele Mazza — Management Engineering graduate, University of Bologna" src="assets/header-light.svg">
 </picture>
 
-**English** · [Italiano](README.it.md)
-
 I graduated in Management Engineering at the University of Bologna (108/110), after a first year in Computer Engineering and an Erasmus semester in Madrid. I like building practical tools for problems I actually have: documents that are hard to search, lectures that are hard to review, events that are hard to plan.
 
-I learned to program in C and Java during my first year, and today I build with AI coding agents such as Codex and Claude Code. I decide what the tool should do and how it is structured, read and question the code the agents write, and test the result until it behaves the way it should.
+I learned to program in C and Java during my first year, and today I use coding assistants in my development workflow. I decide what the tool should do and how it is structured, read and question the code, and test the result until it behaves the way it should.
 
 ## Selected work
 
